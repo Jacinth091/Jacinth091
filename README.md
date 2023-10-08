@@ -2,7 +2,7 @@
 - 👨‍🎓 I'm currently an IT freshman in College 
 - 👀 I’m interested in Fullstack Web dev, GameDev, and Software Engineer
 - 🌱 I’m currently learning HTML, CSS, and C
-- 📚 I'm currently aiming to learn JS, C++, PHP, SQL and etc
+- 📚 I'm currently aiming to learn JS, C++, PHP, Python and etc
 - 💞️ I’m looking to collaborate soon
 - 📫 How to reach me ...
 
